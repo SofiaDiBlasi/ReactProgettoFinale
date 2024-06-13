@@ -1,0 +1,5 @@
+.profiloBg{
+    background-image:url(../../assets//img/profilo.png) ;
+    background-size: cover;
+    height: 900px;
+}

@@ -1,0 +1,6 @@
+.pageBg{
+    background-image: url(../../assets//img//confetti.png);
+    background-size: contain;
+    height: 900px;
+    padding-top: 150px;
+}

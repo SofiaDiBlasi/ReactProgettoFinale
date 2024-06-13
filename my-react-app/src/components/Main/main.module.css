@@ -1,0 +1,39 @@
+.darkBlueText{
+    color: darkblue;
+    padding-top: 1rem;
+}
+.lilacBg{
+    background-color: #E6B3C6;
+    height: 15rem;
+    width: 20rem;
+    border-radius: 10%;
+}
+.lightBlue{
+    background-color: #70D6FF;
+    height: 15rem;
+    width: 20rem;
+    border-radius: 10%;
+}
+.yellowBg{
+    background-color: #F7D47D;
+    height: 15rem;
+    width: 20rem;
+    border-radius: 10%;
+}
+.greenBg{
+    background-color:#C5E29F;
+    height: 15rem;
+    width: 20rem;
+    border-radius: 10%;
+}
+.orangeBg{
+    background-color:#FF9770;
+    height: 15rem;
+    width: 20rem;
+    border-radius: 10%;
+}
+.boxImg{
+    width: 200px;
+    margin-left: 4rem;
+    margin-top: 1rem;
+}

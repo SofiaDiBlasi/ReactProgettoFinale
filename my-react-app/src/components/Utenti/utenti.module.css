@@ -1,0 +1,8 @@
+.utentiBg{
+    background-color: #FFD5A9;
+}
+.imgUtenti{
+    background-image: url(../../assets/img/utenti.png);
+    background-size: contain;
+    height: 20rem;
+}
